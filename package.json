@@ -1,0 +1,14 @@
+{
+  "name": "natours-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page for the Natours project, using Advance Css and SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devesh Gautam",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
