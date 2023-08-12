@@ -530,7 +530,8 @@ body {
   .footer__link:hover, .footer__link:active {
     color: #55c57a;
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.4);
-    transform: scale(1.2); }
+    transform: scale(1.2);
+    font-size: 1.4rem; }
   .footer__copyright {
     color: #f7f7f7;
     border-top: 1px solid #777;
